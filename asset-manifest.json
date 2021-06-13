@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/grid-featured-component/static/css/main.a4ad39da.chunk.css",
+    "main.js": "/grid-featured-component/static/js/main.c2538771.chunk.js",
+    "main.js.map": "/grid-featured-component/static/js/main.c2538771.chunk.js.map",
+    "runtime-main.js": "/grid-featured-component/static/js/runtime-main.427e04ff.js",
+    "runtime-main.js.map": "/grid-featured-component/static/js/runtime-main.427e04ff.js.map",
+    "static/js/2.5bca2474.chunk.js": "/grid-featured-component/static/js/2.5bca2474.chunk.js",
+    "static/js/2.5bca2474.chunk.js.map": "/grid-featured-component/static/js/2.5bca2474.chunk.js.map",
+    "static/js/3.c48235b8.chunk.js": "/grid-featured-component/static/js/3.c48235b8.chunk.js",
+    "static/js/3.c48235b8.chunk.js.map": "/grid-featured-component/static/js/3.c48235b8.chunk.js.map",
+    "index.html": "/grid-featured-component/index.html",
+    "static/css/main.a4ad39da.chunk.css.map": "/grid-featured-component/static/css/main.a4ad39da.chunk.css.map",
+    "static/js/2.5bca2474.chunk.js.LICENSE.txt": "/grid-featured-component/static/js/2.5bca2474.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/grid-featured-component/static/media/1.67a67b0b.jpg",
+    "static/media/10.bbdd24e3.jpg": "/grid-featured-component/static/media/10.bbdd24e3.jpg",
+    "static/media/11.4d25bcf5.jpg": "/grid-featured-component/static/media/11.4d25bcf5.jpg",
+    "static/media/12.6ccc62af.jpg": "/grid-featured-component/static/media/12.6ccc62af.jpg",
+    "static/media/2.76143da4.jpg": "/grid-featured-component/static/media/2.76143da4.jpg",
+    "static/media/3.074288d8.jpg": "/grid-featured-component/static/media/3.074288d8.jpg",
+    "static/media/4.e41faa8c.jpg": "/grid-featured-component/static/media/4.e41faa8c.jpg",
+    "static/media/5.6bb821e9.jpg": "/grid-featured-component/static/media/5.6bb821e9.jpg",
+    "static/media/6.a0218bd5.jpg": "/grid-featured-component/static/media/6.a0218bd5.jpg",
+    "static/media/7.7985c5a1.jpg": "/grid-featured-component/static/media/7.7985c5a1.jpg",
+    "static/media/8.c3b52c7e.jpg": "/grid-featured-component/static/media/8.c3b52c7e.jpg",
+    "static/media/9.20b57d77.jpg": "/grid-featured-component/static/media/9.20b57d77.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.427e04ff.js",
+    "static/js/2.5bca2474.chunk.js",
+    "static/css/main.a4ad39da.chunk.css",
+    "static/js/main.c2538771.chunk.js"
+  ]
+}
