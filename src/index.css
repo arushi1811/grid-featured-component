@@ -1,13 +1,58 @@
-body {
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+
+.magazine-header {
+  background-color: #000;
+  color:#FFF;
+  height: 2rem;
+  display: flex;
+  align-items: center;
+}
+
+.magazine-header h3 {
+  margin-left: 1rem;
+}
+
+.content-imgs {
+  display: flex;
+  margin-top: 1rem;
+}
+
+.imgs {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.main-img {
+  display: flex;
+  justify-content: center;
+}
+
+.img-footer {
+  margin-left: 1rem;
+  text-align: left;
+}
+
+.img-footer-btns {
+  margin-top: 0.2rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.img-footer-btns button {
+  background-color: rgb(197, 75, 75);
+  color: #FFF;
+  padding: 0.4rem 0.4rem;
+  border: none;
+}
+
+.signature {
+  text-align: left;
+  margin-left: 1rem;
 }
